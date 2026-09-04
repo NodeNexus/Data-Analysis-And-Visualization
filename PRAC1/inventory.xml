@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <item>
+    <id>101</id>
+    <name>Laptop</name>
+    <price>1200.50</price>
+    <stock>45</stock>
+    <category>Electronics</category>
+  </item>
+  <item>
+    <id>102</id>
+    <name>Mouse</name>
+    <price>25.00</price>
+    <stock>200</stock>
+    <category>Electronics</category>
+  </item>
+  <item>
+    <id>103</id>
+    <name>Desk</name>
+    <price>150.00</price>
+    <stock>15</stock>
+    <category>Furniture</category>
+  </item>
+  <item>
+    <id>104</id>
+    <name>Chair</name>
+    <price>85.50</price>
+    <stock>30</stock>
+    <category>Furniture</category>
+  </item>
+  <item>
+    <id>105</id>
+    <name>Monitor</name>
+    <price>300.00</price>
+    <stock>80</stock>
+    <category>Electronics</category>
+  </item>
+</inventory>
